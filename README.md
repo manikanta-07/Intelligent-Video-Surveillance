@@ -21,7 +21,7 @@ A Deep Learning Model Trained on my own by using 35,887 data set of images to pr
 
 A cam to check on the people around. 
 
-# Techical Know how and knowledge required to build algorithms using:
+# Technical Know how and knowledge required to build algorithms using:
 Python
 
 CNN Algorithm
